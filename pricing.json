@@ -1,0 +1,13 @@
+{
+  "repo": "grok4.5-grok-4.5-api",
+  "model": "grok-4.5",
+  "display": "Grok 4.5",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 1.6,
+    "output": 3.2
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
