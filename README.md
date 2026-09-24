@@ -2,7 +2,7 @@
 
 > **input $1.6; output $3.2** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-49aff8)** · **[Get an API key](https://go.apimart.ai/k-0aad6f)**
 
 Everything here refers to **grok-4.5** — also written **grok4.5** or **grok 4.5**.
 
